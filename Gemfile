@@ -31,6 +31,7 @@ gem 'jbuilder', '~> 2.5'
 
 # 認証機能の実装
 gem 'devise'
+gem 'test-unit'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
